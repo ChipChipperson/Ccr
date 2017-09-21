@@ -2,3 +2,6 @@ C:\Repositories\Ccr\Ccr.WinCore\bin\Debug\Ccr.WinCore.dll
 C:\Repositories\Ccr\Ccr.WinCore\bin\Debug\Ccr.WinCore.pdb
 C:\Repositories\Ccr\Ccr.WinCore\obj\Debug\Ccr.WinCore.dll
 C:\Repositories\Ccr\Ccr.WinCore\obj\Debug\Ccr.WinCore.pdb
+C:\Repositories\Ccr\Ccr.WinCore\bin\Debug\JetBrains.Annotations.dll
+C:\Repositories\Ccr\Ccr.WinCore\bin\Debug\JetBrains.Annotations.xml
+C:\Repositories\Ccr\Ccr.WinCore\obj\Debug\Ccr.WinCore.csprojResolveAssemblyReference.cache
