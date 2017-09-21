@@ -1,0 +1,4 @@
+C:\Repositories\Ccr\Ccr.WinCore\bin\Debug\Ccr.WinCore.dll
+C:\Repositories\Ccr\Ccr.WinCore\bin\Debug\Ccr.WinCore.pdb
+C:\Repositories\Ccr\Ccr.WinCore\obj\Debug\Ccr.WinCore.dll
+C:\Repositories\Ccr\Ccr.WinCore\obj\Debug\Ccr.WinCore.pdb
